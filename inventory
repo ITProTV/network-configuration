@@ -1,0 +1,13 @@
+[switches:children]
+eos
+ios
+vyos
+
+[eos]
+eos01.itpro.tv
+
+[ios]
+ios01.itpro.tv
+
+[vyos]
+vyos01.itpro.tv
